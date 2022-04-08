@@ -18,7 +18,29 @@ This was just a test to make sure the git pull statement works as expected.
 - git config --global init.defaultBranch main 
 - git init
 - git remote add origin git@github.com:JoeBarbone/git_test.git
-- git pull origin main
+- git pull origin main  
+---
+### Quick Reference
+rm -rf .git* will remote git from a folder  
+hashtags # ## ### are used for h1 h2 h3 etc headings  
+ordered list 1. first item
+1. First Item
+2. Second Item  
+  
+unordered list - First Item
+- First Item
+- Second Item
+  
+horizontal rule is ---
+---
+link is [title] (nospace) (https://site.com)  
+[Website](http://google.com)  
+![alt text](image.jpg)  
+  
+Task List  
+- [ ] Do something
+- [ ] Do something else
+- [X] Literally do nothing
 
 ### 2022-04-07 from xUbuntu
 This was added from xUbuntu.
