@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # git_test Repository
 ## Repository Usage
 my first github repo!  
@@ -18,3 +19,4 @@ This was just a test to make sure the git pull statement works as expected.
 - git init
 - git remote add origin git@github.com:JoeBarbone/git_test.git
 - git pull origin main
+=======
