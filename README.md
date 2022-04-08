@@ -7,7 +7,7 @@ This was added after cloning from github.com using git@github.com:JoeBarbone/  g
 Adding another comment here.  
 Sixth line here.  
 
-### 2022-04-07
+### 2022-04-07 from devUCF
 This was just a test to make sure the git pull statement works as expected. 
 - ls -al ~/.ssh
 - ssh-keygen -t rsa -b 4096 -C "JoeBarbone@aol.com"
@@ -20,3 +20,5 @@ This was just a test to make sure the git pull statement works as expected.
 - git remote add origin git@github.com:JoeBarbone/git_test.git
 - git pull origin main
 
+### 2022-04-07 from xUbuntu
+This was added from xUbuntu.
